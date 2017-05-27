@@ -1,0 +1,9 @@
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\bin\Debug\Dominio.Entidades.dll
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\bin\Debug\Infraestuctura.Data.dll
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\bin\Debug\Dominio.Entidades.pdb
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\bin\Debug\Infraestuctura.Data.pdb
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

@@ -1,0 +1,5 @@
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\suite508\Desktop\WebSite_Semana07\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
